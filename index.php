@@ -57,9 +57,13 @@ require "dbconfig/config.php";
 			align-items: center;
 		} */
 
+		
+
 
 		
 	</style>
+
+	<h1>Hello there!</h1> 
 
 <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
 		<ol class="carousel-indicators">
