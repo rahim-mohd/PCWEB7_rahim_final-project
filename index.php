@@ -63,7 +63,7 @@ require "dbconfig/config.php";
 		
 	</style>
 
-	<h1>Hello there!</h1> 
+	<h1>Hello there, world!</h1> 
 
 <div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
 		<ol class="carousel-indicators">
